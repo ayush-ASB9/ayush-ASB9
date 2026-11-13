@@ -1,14 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=Ayush%20Singh&fontSize=56&fontColor=f0f6fc&fontAlignY=36&desc=commerce%20student%20who%20accidentally%20started%20shipping%20code&descSize=17&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" alt="Ayush Singh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=AYUSH%20ASB9&fontSize=60&fontColor=f0f6fc&fontAlignY=36&desc=ASB9%20%2F%2F%20HUMAN.EXE%20%2F%2F%2009&descSize=17&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" alt="AYUSH ASB9" />
 
 <div align="center">
 
-<a href="https://ayush.cooking">
+<a href="https://ayush-asb9.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=trying+to+kill+your+startup+idea+(politely);17.+commerce+kid.+ships+TypeScript+anyway;poking+at+US+markets+with+Python+notebooks;currently+avoiding+college+applications" alt="typing intro" />
 </a>
 
 <br />
 
-<a href="https://ayush.cooking"><img src="https://img.shields.io/badge/ayush.cooking-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="website" /></a>
+<a href="https://ayush-asb9.github.io"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58a6ff" alt="portfolio" /></a>
+<a href="https://ayush.cooking"><img src="https://img.shields.io/badge/my%20story-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="my story" /></a>
 <a href="https://www.linkedin.com/in/ayushasb9"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
 <a href="https://x.com/HLV_Ayush"><img src="https://img.shields.io/badge/@HLV__Ayush-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff" alt="X" /></a>
 <a href="https://asb9insights.substack.com"><img src="https://img.shields.io/badge/Substack-0d1117?style=for-the-badge&logo=substack&logoColor=58a6ff" alt="Substack" /></a>
@@ -18,6 +19,23 @@
 
 > [!WARNING]
 > This developer is a 12th-grade commerce student. Side effects include over-thinking, unsolicited startup critique, and pull requests written at 2am.
+
+### 🌐 Two portfolios, because one wasn't enough
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://ayush-asb9.github.io">ayush-asb9.github.io</a></h4>
+      <p><code>ASB9.SYS // 09 // ONLINE</code></p>
+      <p>The portfolio. What I've done, how my brain works, the graveyard, and a theme selector nobody asked for.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://ayush.cooking">ayush.cooking</a></h4>
+      <p><code>always cooking something</code></p>
+      <p>The story. From CFA lectures at 15 to investment memos, dead startups, Hack Club and YC founders. The long version.</p>
+    </td>
+  </tr>
+</table>
 
 ### `$ whoami`
 
