@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://ayush-asb9.github.io"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58a6ff" alt="portfolio" /></a>
+<a href="https://ayush-asb9.github.io"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="portfolio" /></a>
 <a href="https://ayush.cooking"><img src="https://img.shields.io/badge/my%20story-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="my story" /></a>
 <a href="https://www.linkedin.com/in/ayushasb9"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
 <a href="https://x.com/HLV_Ayush"><img src="https://img.shields.io/badge/@HLV__Ayush-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff" alt="X" /></a>
